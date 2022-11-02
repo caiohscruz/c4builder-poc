@@ -6,17 +6,14 @@
     * [Single Page Application](1%20Internet%20Banking%20System/Single%20Page%20Application/README.md)
       * [Dynamic Diagram](1%20Internet%20Banking%20System/Single%20Page%20Application/Dynamic%20Diagram/README.md)
       * [Extended Docs](1%20Internet%20Banking%20System/Single%20Page%20Application/Extended%20Docs/README.md)
-  * [2 Deployment](2%20Deployment/README.md)
 
 ---
 
 - [1 Internet Banking System](1%20Internet%20Banking%20System/README.md)
 
-- [2 Deployment](2%20Deployment/README.md)
-
 ---
 
-![diagram](https://www.plantuml.com/plantuml/svg/0/RL9BRnen4BuZyH-cdAX4s4jFEIMXgpOIj2Y0efpGh1d0YXyhppYGVr_R6r2sxN5cllaUOz-nO91epN3mHJjbuexWADBoRLK5F4qFMewnYKn1UIVaPAgyhN0NDBet4zjOpRxTB0qwsIpcbK4XbjJQpZBwBDEsK0y7y_kNtvlrzlbn_NCxht_KlxwFl-R-aW9xDsuRDO5HLw211tIlsXrW5bcyfJ1AmtjG7nNuFSYHe4ce2PoIGsWlcxa7g9IFJdWwIXghTnQoOzrm8dbChe8ZkIfqqy9lZ3_nLOH1FBnfEe5sUnyiYlOEiF5HihWEVQa9eDk1nLU25jyjzTMtzLd6b0tKDnQr0RxAhbCGNLmbzmkjWcU_5wZFweZkG42V5_wcj2NK0fF5W9R-asebFX036dEvcagDuZq3_yrspJ_vb4q2EaQLOQaYKSN8SF14fdkwxheR9iw3tCvfkrTTaTlnHuvyrGkYx9IZz135zMAzxC5iZ_ykuSk_-WC0)
+![diagram](https://www.plantuml.com/plantuml/svg/0/TP9FRnD13CNlaV8TJ4v1WkoXd3Yrf15K2f1qiueuHSwEcnrrTcOxzYI5Juztqa3JmcdsZt_lsSzpoO9HKkk6WpVMrouPWaQauuz54V4msLbfqZOnnJfu8I-JEhG5ccZHxrtgKZ7zy7xXq4lrTLuu56BHJvjfN_qeaovB3mVpgn_VgzLcVRFwifdFFi--NO_VzjyN53duCPhM-dSmkkfFgDHkrBz1RmpX3gGXu9yirEeZ2ZJ8W1uoPbaYIeWGWwEHgfQvS4oi4ZDj8tRHyedlTLSlrD2vSE1ing1pSce9D0Xw1bFSsvhuh_vczYXZlkZRN9TGNkI6M_mLF9IsxHn1gKtXJiyZEtd1cgqIvNAU_ny7lYLDq0QF3gvH43uXlyBuWK-Uo_ArwJ9H-g_buJugi0xn_kXNFWiX4WUtrqdhXanoPA2BGITcuYmp76XtfqNbR6_QBaJHn7WFTrQz9G07ZMwBKZSdFCCzsZCvhwfp0GtdfPxOiwgSp2tjTBEwVay7iDbAUtn8Ui7E9NCUYxHrbXjerL4p_rEH9pwMJ9yM-y-IR5brHYymI2GzpDa0my4bUPClysy0)
 
 **Level 1: System Context diagram**
 
