@@ -1,17 +1,17 @@
 # Extended Docs
 
-`\1 Internet Banking System\Single Page Application\Extended Docs`
+`\1 Enterprise Systems\Single Page Application\Extended Docs`
 
 * [Study Case](../../../README.md)
-  * [1 Internet Banking System](../../../1%20Internet%20Banking%20System/README.md)
-    * [API Application](../../../1%20Internet%20Banking%20System/API%20Application/README.md)
-    * [Single Page Application](../../../1%20Internet%20Banking%20System/Single%20Page%20Application/README.md)
-      * [Dynamic Diagram](../../../1%20Internet%20Banking%20System/Single%20Page%20Application/Dynamic%20Diagram/README.md)
-      * [**Extended Docs**](../../../1%20Internet%20Banking%20System/Single%20Page%20Application/Extended%20Docs/README.md)
+  * [1 Enterprise Systems](../../../1%20Enterprise%20Systems/README.md)
+    * [API Application](../../../1%20Enterprise%20Systems/API%20Application/README.md)
+    * [Single Page Application](../../../1%20Enterprise%20Systems/Single%20Page%20Application/README.md)
+      * [Dynamic Diagram](../../../1%20Enterprise%20Systems/Single%20Page%20Application/Dynamic%20Diagram/README.md)
+      * [**Extended Docs**](../../../1%20Enterprise%20Systems/Single%20Page%20Application/Extended%20Docs/README.md)
 
 ---
 
-[Single Page Application (up)](../../../1%20Internet%20Banking%20System/Single%20Page%20Application/README.md)
+[Single Page Application (up)](../../../1%20Enterprise%20Systems/Single%20Page%20Application/README.md)
 
 ---
 

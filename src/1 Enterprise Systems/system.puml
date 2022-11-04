@@ -1,0 +1,29 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(admin, "Admin User", "A user of the system that has an administrator role")
+System_Ext(s3, "AWS S3", "Amazon Simple Storage Service.")
+System_Ext(db, "SQL Server", "Relational Data Base.")
+System_Ext(sqs, "AWS SQS", "Amazon Simple Queue Service.")
+System_Ext(wkr, "Worker", "System that resolve scheduled processes.")
+
+System_Boundary(es, "Enterprise system") {
+    Container(wa, "Web Application", "C# and .NET Framework", "Delivers the static content and the import service single page aplication.")
+    Container(spa, "Single Page Application", "Javascript and AngularJS", "Provides all the import services functionality to users via their web browser.")
+    Container(api, "API Application", "C# and .NET Framework", "Provides import service functionality via a JSON/HTTP API.")
+
+    Rel(wa, spa, "Delivers")
+    Rel(spa, api, "Uses", "JSON/HTTPS")
+    Rel(spa, s3, "Uses", "FTP")
+    Rel(api, db, "Reads & writes to")
+    Rel(api, sqs, "Publish message.")
+}
+
+Rel(admin, wa, "Uses", "HTTPS")
+Rel(admin, spa, "Uses")
+Rel(wkr, sqs, "Consume message.")
+Rel(wkr, db, "Update treated process.")
+
+@enduml
